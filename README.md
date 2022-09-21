@@ -19,7 +19,7 @@ Team owners can see good performing players on this ground and can plan their tr
 
 ### Method of dismissal
 ![alt text](./assets/Page-4.png)
-Team coaches could analyze the method of dismissals on each ground and take a educated decision on the best team combination for that game. In the above image we see that the most number of wickets have come via catches. This could be a hint for coaches to have more spinners on the field.
+Team coaches might examine the technique of dismissal on each ground and make an informed selection about the best team combination for that game. The accompanying picture shows that catches have resulted in the most wickets. This might be a suggestion to coaches to bring in more spinners.
 
 
 ## Project setup
